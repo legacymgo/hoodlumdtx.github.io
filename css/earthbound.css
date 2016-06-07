@@ -5,9 +5,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #d6d0c4;
-  background-image: url("/img/earthboundcheck.jpg");  
-    
-}
+  background-image:url("/img/earthboundcheck.jpg"); }
 
 a {
   color: #1e6bb8;
